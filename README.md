@@ -4,7 +4,7 @@ markdown<div align="center">
 
 ---
 
-> *"Pick your poison. I find the holes before they find you."*
+> *"SIRIUS| it sounds serious. until You look up."*
 
 ---
 
