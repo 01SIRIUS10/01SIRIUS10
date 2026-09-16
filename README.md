@@ -45,9 +45,3 @@
 ▸ TCM Security — Practical Ethical Hacking (Python Module)
 
 ▸ Python for Security & Automation
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=01SIRIUS10&show_icons=true&theme=dark&hide_border=true&title_color=00FFFF&icon_color=00FFFF" />
-</div>
