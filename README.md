@@ -1,47 +1,28 @@
-<div align="center">
-  <img src="Banner.png" alt="SIRIUS Banner" width="100%" />
-</div>
+### "SIRIUS — It sounds serious, until you look up."
 
----
+### ⚡ whoami
+▸ **Role:** Web Application Penetration Tester — in progress  
+▸ **Trajectory:** AI Red Teaming & Offensive Security  
+▸ **Currently:** Linux Privilege Escalation & Offensive Python (Networking & Linux Basics completed ✅)  
+▸ **Standard:** Every commit here is a real step, not a tutorial screenshot  
 
-> *"SIRIUS| it sounds serious. until You look up."*
-
----
-
-## ⚡ whoami
-▸ Web Application Penetration Tester — in progress
-
-▸ Future: AI Red Teaming
-
-▸ Currently: Mastering Python for Security (Networking & Linux completed ✅)
-
-▸ Every commit here is a real step, not a tutorial screenshot
-
----
-
-## 🗺️ The Journey
+### 🗺️ The Journey
 
 | Phase | Focus | Status |
-|-------|-------|--------|
+| :--- | :--- | :--- |
 | 01 | Networking Fundamentals | ✅ Done |
-| 02 | Linux + OverTheWire Bandit | ✅ Done |
-| 03 | Python for Security | 🔄 In Progress |
-| 04 | Web App Security — PortSwigger | ⬜ Up Next |
-| 05 | API Security + Burp Suite | ⬜ |
-| 06 | OSCP-level Machines | ⬜ |
+| 02 | Linux + OverTheWire Bandit (34 Levels) | ✅ Done |
+| 03 | Linux Privilege Escalation + Python for Security | 🔄 In Progress |
+| 04 | Web App Security — PortSwigger Academy | ⬜ Up Next |
+| 05 | API Security + Advanced Burp Suite | ⬜ Queued |
+| 06 | Active Directory & OSCP-level Machines | ⬜ Queued |
 
----
+### 📂 What you'll find here
+- **[SIRIUS-Net-Zero](https://github.com/01SIRIUS10/SIRIUS-Net-Zero)** — Networking architecture, protocols, and packet analysis documented from scratch
+- **[sirius-linux-foundations](https://github.com/01SIRIUS10/sirius-linux-foundations)** — Linux internals, OverTheWire Bandit, and Local Privilege Escalation labs
+- **[SIRIUS-Python-Journey](https://github.com/01SIRIUS10/SIRIUS-Python-Journey)** — Offensive security tools I built, not tutorials I watched
+- **portswigger-labs/** *(Launching Phase 04)* — Every Web Security Academy lab & vulnerability class
 
-## 📂 What you'll find here
-
-- `sirius-linux-foundations/` — Linux basics and OverTheWire Bandit fully documented
-- `python-scripts/` — tools I built, not tutorials I watched
-- `htb-writeups/` — HackTheBox machines, documented properly
-- `portswigger-labs/` — every lab, every vulnerability class
-
----
-
-## 🧠 Current focus
-▸ TCM Security — Practical Ethical Hacking (Python Module)
-
-▸ Python for Security & Automation
+### 🧠 Current focus
+▸ TryHackMe — Linux Privilege Escalation & Kernel Exploitation  
+▸ TCM Security — Practical Ethical Hacking & Python Automation
