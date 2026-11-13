@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Optional banner: uncomment and put your Raw image URL -->
-<!-- <img src="BANNER_URL_HERE" width="100%" alt="Banner.png" /> -->
+<img src="https://raw.githubusercontent.com/01SIRIUS10/01SIRIUS10/main/Banner.png" width="100%" alt="SIRIUS Banner" />
 
 # SIRIUS 🌟
+...
 
 **It sounds serious, until you look up.**
 
